@@ -12,6 +12,10 @@
   </a>
 </p>
 
+> **Portfolio status:** Upstream mirror and contribution checkout. This fork is not an active personal product or a required dependency of the personal operating environment.
+>
+> **Upstream relationship:** [`raycast/extensions`](https://github.com/raycast/extensions). Sync or contribution work happens only for a deliberate local patch, learning, or upstream-contribution need; it carries no standing maintenance promise.
+
 [Raycast](https://raycast.com/) lets you control your tools with a few keystrokes. This repository contains all extensions that are available in the [Raycast Store](https://raycast.com/store). It also includes documentation and examples of how to extend Raycast using React.
 
 ![Header](images/header.webp)
